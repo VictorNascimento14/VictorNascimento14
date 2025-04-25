@@ -1,7 +1,7 @@
 <h1 align="center">Victor Nascimento 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor em formação, apaixonado por código, café e CS:GO 🎯
+  Desenvolvedor em formação, apaixonado por código e tecnologia. 🎯
 </p>
 
 ---
