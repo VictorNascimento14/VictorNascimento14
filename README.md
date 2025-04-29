@@ -19,7 +19,7 @@
 ### 🧰 Tecnologias e Ferramentas
 
 **Back-end:**  
-Java 17 • Spring Boot • Spring Security (JWT) • JPA (Hibernate) • PostgreSQL • MySQL • REST API • Maven
+Java 17 • Spring Boot • Spring Security (JWT) • JPA (Hibernate) • PostgreSQL • MySQL • REST API • Maven 
 
 **Front-end:**  
 React • TypeScript • Vite • Tailwind CSS • Radix UI • HTML5 • CSS3 • JavaScript
@@ -39,8 +39,9 @@ SPA interativa para fãs da FURIA com quizzes, ranking, dashboard e áudios clá
 Interface de chat moderna com design inspirado em CS 1.6 e foco em imersão e interatividade.  
 → Tecnologias: React, TypeScript, Tailwind, Vite, Radix UI  
 
-📌 **API de Finanças Pessoais** *(em desenvolvimento)*  
-API RESTful completa com Spring Boot, PostgreSQL, autenticação JWT e testes com JUnit/Mockito.
+📌 **ProntoGestor - Sistema de Gestão Empresarial**  
+O ProntoGestor é um sistema de gestão empresarial completo desenvolvido para auxiliar empresas de todos os portes no controle de suas operações comerciais.
+→ Tecnologias: Java 17, Spring Boot 2.7.12, Spring Data JPA, Spring MVC, Thymeleaf (Template Engine), PostgreSQL, Hibernate (ORM)
 
 ---
 
