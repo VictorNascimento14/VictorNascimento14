@@ -56,7 +56,7 @@ O ProntoGestor é um sistema de gestão empresarial completo desenvolvido para a
 ### 📫 Como me encontrar
 
 - ✉️ victor.dev.nascimento@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/-dev-victor-nascimento)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/--dev-victor-nascimento)  
 - 🧑‍💻 Aqui mesmo no GitHub: [github.com/VictorNascimento14](https://github.com/VictorNascimento14)
 ---
 
