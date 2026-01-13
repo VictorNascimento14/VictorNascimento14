@@ -9,7 +9,7 @@
 ### 👋 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software (Estácio) | Fortaleza – CE  
-- 🚀 Focado em Desenvolvimento Back-end e Análise de dados  
+- 🚀 Focado em Desenvolvimento FullStack e Análise de dados  
 - 💡 Apaixonado por resolver problemas com código limpo, boas práticas e eficiência  
 - 📈 Em busca de oportunidades como estagiário ou júnior em desenvolvimento back-end  
 - 🧠 Autodidata, proativo e sempre aprendendo algo novo!
