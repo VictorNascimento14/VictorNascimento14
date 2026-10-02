@@ -1,85 +1,101 @@
-<h1 align="center">Victor Nascimento 👨‍💻</h1>
-<p align="center">
-  Desenvolvedor FullStack em formação, apaixonado por código limpo e tecnologia. 🎯
-</p>
+<div align="center">
+
+<!-- Header Banner -->
+<img width="100%" src="./assets/header.svg" alt="Victor Nascimento - Software Engineer · Full-Stack & AI"/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorNascimento14/VictorNascimento14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorNascimento14/VictorNascimento14/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/VictorNascimento14/VictorNascimento14/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<!-- Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=40&lines=AI-Assisted+Engineering+with+Coding+Agents;LegalTech+SaaS+in+Production+at+Trynux;Shipping+Real+Software+While+Still+in+College)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/--dev-victor-nascimento)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.dev.nascimento@gmail.com)
+
+</div>
 
 ---
 
-### 👋 Sobre mim
-- 🎓 Estudante de Engenharia de Software (Estácio) | Fortaleza – CE  
-- 🚀 Focado em Desenvolvimento FullStack e Análise de Dados  
-- 💼 Atuando no desenvolvimento de produtos SaaS reais no ecossistema **Trynux**  
-- 💡 Apaixonado por resolver problemas com código limpo, boas práticas e eficiência  
-- 📈 Em busca de oportunidades como estagiário ou júnior em desenvolvimento back-end / fullstack  
-- 🧠 Autodidata, proativo e sempre aprendendo algo novo!
+### Architecture & Focus
+
+```typescript
+interface Profile {
+  role: "Software Engineer · Full-Stack & AI";
+  education: "Software Engineering @ Estácio (ongoing)";
+  domains: [
+    "LegalTech SaaS in Production (IEP Advocacia & Trynux)",
+    "AI-Assisted Engineering: Coding Agents, RAG & Review",
+    "WhatsApp Messaging & Third-Party Integrations"
+  ];
+  coreLanguages: ["TypeScript", "JavaScript", "SQL", "Python", "Java"];
+  infrastructure: ["Supabase", "PostgreSQL", "Deno Edge Functions", "Vercel", "Docker", "Linux"];
+  flagshipProject: "Trynux - LegalTech SaaS Suite for Law Firms";
+}
+```
 
 ---
 
-### 💼 Experiência
+### Core Technologies
 
-**Desenvolvedor FullStack — Trynux** · Fortaleza – CE  
-Desenvolvimento de produtos SaaS em produção (**Trynux** e **Chat Trynux**), atuando no back-end, no front-end e em integrações de API, em equipe com versionamento via Git/GitHub. *(Detalhes de cada produto na seção Projetos em Destaque.)*
+<div align="center">
 
+#### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
+#### Frameworks & Front-end
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🧰 Tecnologias e Ferramentas
+#### Systems & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Back-end:**  
-Node.js • TypeScript • Deno (Supabase Edge Functions) • REST API • Autenticação JWT • Webhooks • Filas/Jobs (pg_cron, pgmq) • PostgreSQL (PL/pgSQL, RPC, RLS, triggers) • Python
+#### AI & Engineering Workflow
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-**Front-end:**  
-React • TypeScript • Vite • Tailwind CSS • Radix UI • HTML5 • CSS3 • JavaScript
-
-**Banco de dados & BaaS:**  
-Supabase (PostgreSQL, Auth, Edge Functions, Realtime) • PostgreSQL • MySQL • SQL (functions, triggers, pg_cron)
-
-**Integrações & APIs:**  
-Evolution API (WhatsApp) • Focus NFe (emissão de NF-e) • PIX • Webhooks
-
-**Ferramentas & Infra:**  
-Git & GitHub • Docker • IntelliJ IDEA • Postman • Swagger • Railway • JUnit • Mockito
-
----
-
-### 🧪 Projetos em Destaque
-
-📌 **Trynux — SaaS Jurídico**  
-Plataforma SaaS de gestão para escritórios de advocacia. Centraliza a captação e o acompanhamento de clientes em um CRM de leads, organiza a distribuição e o agendamento entre SDR e closer, automatiza a emissão de NF-e e integra a comunicação com o cliente — tirando do advogado a parte operacional e mantendo o fluxo comercial e fiscal rodando de forma automatizada.
-
-**Tecnologias:** React • TypeScript • Vite • Tailwind CSS • Supabase (PostgreSQL, Auth, Edge Functions) • Focus NFe API • SQL (functions, triggers, pg_cron)
-
-📌 **Chat Trynux — Atendimento e Mensageria**  
-Módulo de atendimento do Trynux que reúne todas as conversas com clientes via WhatsApp em uma única interface. Integra-se ao WhatsApp pela Evolution API para envio e recebimento de mensagens, respostas e acompanhamento dos atendimentos dentro do sistema, conectado ao CRM de leads.
-
-**Tecnologias:** React • TypeScript • Tailwind CSS • Supabase (Realtime, Edge Functions) • Evolution API (WhatsApp) • Node.js
-
-📌 **Flowmetrics**  
-Plataforma de análise de dados e geração de insights para equipes, com foco em produtividade e inteligência artificial.
-
-**Tecnologias:** React 19 (Hooks) • TypeScript • Vite • Tailwind CSS • Supabase (Postgres, Auth, APIs) • Power BI • Python • Lucide React (ícones) • XLSX (exportação Excel) • jsPDF (exportação PDF)
-
-📌 **StudyFlow**  
-Assistente de estudos inteligente, projetado para ajudar estudantes a organizar a vida acadêmica, recuperar conteúdos perdidos e manter a motivação.
-
-**Tecnologias:**  
-- *Frontend:* React 19 • Vite • TypeScript • Tailwind CSS • React Router 7  
-- *Backend & Serviços:* Supabase (Banco de dados, Auth)
-
-📌 **ProntoGestor — Sistema de Gestão Empresarial**  
-Sistema de gestão empresarial completo, desenvolvido para auxiliar empresas de todos os portes no controle de suas operações comerciais.
-
-**Tecnologias:** Java 17 • Spring Boot 2.7.12 • Spring Data JPA • Spring MVC • Thymeleaf • PostgreSQL • Hibernate (ORM)
+</div>
 
 ---
 
-### 🌱 Atualmente aprendendo
-- Testes unitários e de integração com JUnit e Mockito  
-- Boas práticas de arquitetura em projetos Spring  
-- Integração de back-end com front-end (fullstack com React)
+### Featured Systems
+
+<div align="center">
+
+| Project | Architecture & Scope | Core Stack |
+|:---|:---|:---|
+| **Trynux** | LegalTech SaaS suite in production for law firms — leads CRM, WhatsApp customer service with AI (Chat Trynux) and legal case management (Processual) | Next.js, React, TypeScript, Supabase, PostgreSQL |
+| [**Decalque**](https://github.com/VictorNascimento14/Decalque) | Chrome extension (Manifest V3) that extracts the design system of any website or Figma file — colors, typography, animations, assets and components | JavaScript, Manifest V3, Playwright |
+| [**Arcada**](https://github.com/VictorNascimento14/Arcada) | Dental practice management — patients, odontogram, periodontogram, treatment plans, scheduling and finance · [live demo](https://victornascimento14.github.io/Arcada/) | React, TypeScript, Vite, Tailwind CSS |
+
+</div>
 
 ---
 
-### 📫 Como me encontrar
-- ✉️ victor.dev.nascimento@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/--dev-victor-nascimento)  
-- 🧑‍💻 GitHub: [github.com/VictorNascimento14](https://github.com/VictorNascimento14)
+<div align="center">
+
+*"Clean architecture is not about following rules. It is about building systems that withstand change."*
+
+</div>
